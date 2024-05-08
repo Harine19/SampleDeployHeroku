@@ -25,7 +25,7 @@ This project serves as a trial to expose a machine learning model to the web, en
 3. **Feedback:** Users can provide feedback to improve the model's accuracy over time.
 
 ## Access
-Access the heart disease prediction model [here](your-heroku-app-url).
+Access the heart disease prediction model [here](https://github.com/Harine19/SampleDeployHeroku/tree/main/models).
 
 ## Feedback
 We value your feedback! If you have any suggestions or encounter any issues, please don't hesitate to reach out.
