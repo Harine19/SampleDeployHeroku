@@ -2,15 +2,15 @@
 # Heart Disease Prediction Model 🩺💓
 
 ## Overview
-This project implements a machine learning model for predicting heart disease risk based on various medical attributes. The model is trained on a dataset containing patient information such as age, sex, cholesterol levels, etc. It utilizes a sophisticated algorithm to analyze these features and provide predictions.
+This project serves as a trial to expose a machine learning model to the web, enabling users to interact with it locally using Heroku. By deploying the model on Heroku, we aim to make it accessible to a wider audience and gather valuable feedback for future improvements. 
+
+## Machine learning model
+This project implements a machine learning model for predicting heart disease risk based on various medical attributes. The model is trained on a dataset containing patient information such as age, gender, cholesterol levels, etc. It utilizes an ML algorithm to analyze these features and provide predictions. This is the model that is exposed to the web.
 
 ## Features
 - **Machine Learning Algorithm:** Utilizes state-of-the-art machine learning techniques.
 - **Web Deployment:** Hosted on Heroku for easy access.
 - **User-friendly Interface:** Simple and intuitive interface for inputting patient data.
-
-## Deployment Trial
-This project serves as a trial to expose a machine learning model to the web, enabling users to interact with it locally using Heroku. By deploying the model on Heroku, we aim to make it accessible to a wider audience and gather valuable feedback for future improvements.
 
 ## Technologies Used
 - **Python:** Programming language for model development.
@@ -26,6 +26,3 @@ This project serves as a trial to expose a machine learning model to the web, en
 
 ## Access
 Access the heart disease prediction model [here](https://github.com/Harine19/SampleDeployHeroku/tree/main/models).
-
-## Feedback
-We value your feedback! If you have any suggestions or encounter any issues, please don't hesitate to reach out.
